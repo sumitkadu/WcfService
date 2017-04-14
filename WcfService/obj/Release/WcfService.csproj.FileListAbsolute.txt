@@ -1,0 +1,6 @@
+C:\Sumit\Study\NetPractice2\WcfService\WcfService\bin\WcfService.exe.config
+C:\Sumit\Study\NetPractice2\WcfService\WcfService\bin\Output.json
+C:\Sumit\Study\NetPractice2\WcfService\WcfService\bin\WcfService.exe
+C:\Sumit\Study\NetPractice2\WcfService\WcfService\bin\WcfService.pdb
+C:\Sumit\Study\NetPractice2\WcfService\WcfService\obj\Release\WcfService.exe
+C:\Sumit\Study\NetPractice2\WcfService\WcfService\obj\Release\WcfService.pdb
