@@ -9,5 +9,8 @@ namespace WcfService
     {
         [OperationContract]        
         string GetData();
+
+        [OperationContract]
+        string PostData(string data);
     }    
 }
